@@ -1,0 +1,19 @@
+{
+    "name": "sipin-admin-api",
+    "version": "1.0.0",
+    "description": "sipin 后台功能 api",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@git.sipin.one:7999/spfc/sipin-admin-api.git"
+    },
+    "dependencies": {
+        "object-assign": "^3.0.0",
+        "reqwest": "^2.0.5"
+    },
+    "author": "sipin frontend",
+    "license": "ISC"
+}
